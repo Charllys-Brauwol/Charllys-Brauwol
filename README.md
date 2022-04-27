@@ -3,7 +3,7 @@
 
 
 ## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; - Iniciante<br>
+![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp; - Iniciante<br>
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; - Iniciante<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; - Iniciante<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; - Intermediário<br>
