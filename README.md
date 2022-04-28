@@ -4,14 +4,14 @@
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-Iniciante-05122A?style=flat&logo=CSS3&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-05122A?style=flat&logo=javascript&color=red)&nbsp;<br>
-![Git](https://img.shields.io/badge/Git-Intermediário-05122A?style=flat&logo=git&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-Intermediário-05122A?style=flat&logo=github&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Intermediário-05122A?style=flat&logo=visual-studio-code&color=green)&nbsp;<br>
+![Git](https://img.shields.io/badge/Git-Intermediário-05122A?style=flat&logo=git&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-Intermediário-05122A?style=flat&logo=github&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Intermediário-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
 <p align="center">
 <img width="670px" src="https://github-readme-stats.vercel.app/api?username=Charllys-Brauwol&show_icons=true&theme=nightowl">
-<a href="https://github.com/Charllys-Brauwol"> <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+<a href="https://github.com/Charllys-Brauwol"> <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&&title_color=green" /></a>
 </p>
 
 <p align="center">
