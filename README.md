@@ -7,6 +7,8 @@
    <img height="300em" src="https://github.com/Charllys-Brauwol/Charllys-Brauwol/blob/main/nao_compila.gif"/>
 </div>
 
+<br>
+
 - 🎓 Graduando do 8º Semestre de Ciências da Computação pela UECE.
 - 👨‍💻 Atualmente trabalho na área de Telecomunicações, sou responsável pelo FTTx da empresa e projetista de Redes FTTx.
 - 🧠 Atualmente estou estudando nas horas vagas sobre Front-end: HTML, CSS, JavaScript.
