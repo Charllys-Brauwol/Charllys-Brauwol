@@ -1,13 +1,13 @@
 <h1 align="center">Hello, World! Meu nome é Charllys Brauwol. 👨‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charllys-Brauwol&color=blue" alt="Profile views" /> 
 
-<p align="left">
+
 - 🎓 Graduando do 8º Semestre de Ciências da Computação pela UECE.
 - 👨‍💻 Atualmente trabalho na área de Telecomunicações, sou responsável pelo FTTx da empresa e projetista de Redes FTTx.
 - 🧠 Atualmente estou estudando nas horas vagas sobre Front-end: HTML, CSS, JavaScript.
 - 📚 Já na faculdade estamos se aprofundando em POO com Java.
 - ⚡ Curiosidades: adoro café ☕ e, aparentemente, não posso ver um animal na rua (6 gatos e 2 cachorros).
-</p>
+
   
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-Iniciante-05122A?style=flat&logo=CSS3&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-05122A?style=flat&logo=javascript&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-Iniciante-05122A?style=flat&logo=Java&color=red)<br>
