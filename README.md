@@ -1,7 +1,5 @@
 <h1 align="center">Charllys Brauwol! 👨‍💻</h1>
 
-<p align="left"> <img src="https://komarev.com/zghpvc/?username=Charllys-Brauwol&color=green" alt="Profile views" /> 
-
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-Iniciante-05122A?style=flat&logo=CSS3&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-05122A?style=flat&logo=javascript&color=red)&nbsp;<br>
