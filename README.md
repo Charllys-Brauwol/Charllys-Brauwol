@@ -10,3 +10,10 @@
 <a href="https://www.instagram.com/charllys.brauwol/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="img" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/charllys-brauwol-738a38200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="img" height="30" width="30" /></a>
 </p>
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=birobirobiro&show_icons=true&theme=nightowl" alt="biro's stats"/>
+</p>
