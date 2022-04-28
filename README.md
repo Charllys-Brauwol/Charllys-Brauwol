@@ -11,6 +11,7 @@
 
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Charllys-Brauwol&show_icons=true&theme=nightowl" alt="biro's stats"/>
+  <a href="https://github.com/Charllys-Brauwol"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </p>
 
 <p align="center">
