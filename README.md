@@ -11,7 +11,7 @@
 
 <p align="center">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Charllys-Brauwol&show_icons=true&theme=nightowl">
-<a href="https://github.com/Charllys-Brauwol"> <img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+<a href="https://github.com/Charllys-Brauwol"> <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </p>
 
 <p align="center">
