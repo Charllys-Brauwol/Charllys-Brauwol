@@ -4,7 +4,7 @@
 <p>
 
 <div align="center">
-   <img height="380em" src="https://giphy.com/embed/1C8bHHJturSx2"/>
+   <img height="380em" src="https://github.com/Charllys-Brauwol/Charllys-Brauwol/blob/main/nao_compila.gif"/>
 </div>
 
 - 🎓 Graduando do 8º Semestre de Ciências da Computação pela UECE.
