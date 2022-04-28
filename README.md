@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! Meu nome é Charllys Brauwol. 👨‍💻</h1>
+<h1 align="center">Hello, World! Meu nome é Charllys Brauwol.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charllys-Brauwol&color=blue" alt="Profile views" /> 
 <br><br>
 <p>
