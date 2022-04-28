@@ -1,4 +1,4 @@
-<h1 align="center">Oii, meu nome é Charllys! </h1>
+<h1 align="center">Oii, meu nome é Charllys Brauwol! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charllys-Brauwol&color=red" alt="Profile views" /> 
 
 
