@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charllys-Brauwol&color=blue" alt="Profile views" /> 
 
 <p align="left">
-🎓 Graduando do 8º Semestre de Ciências da Computação pela UECE.
-👨‍💻 Atualmente trabalho na área de Telecomunicações, sou responsável pelo FTTx da empresa e projetista de Redes FTTx.
-🧠 Atualmente estou estudando nas horas vagas sobre Front-end: HTML, CSS, JavaScript. 
-📚 Já na faculdade estamos se aprofundando em POO com Java.
-⚡ Curiosidades: adoro café ☕ e, aparentemente, não posso ver um animal na rua (6 gatos e 2 cachorros). 
+- 🎓 Graduando do 8º Semestre de Ciências da Computação pela UECE.
+- 👨‍💻 Atualmente trabalho na área de Telecomunicações, sou responsável pelo FTTx da empresa e projetista de Redes FTTx.
+- 🧠 Atualmente estou estudando nas horas vagas sobre Front-end: HTML, CSS, JavaScript.
+- 📚 Já na faculdade estamos se aprofundando em POO com Java.
+- ⚡ Curiosidades: adoro café ☕ e, aparentemente, não posso ver um animal na rua (6 gatos e 2 cachorros).
 </p>
   
 ## 🛠 &nbsp;Tech Stack
