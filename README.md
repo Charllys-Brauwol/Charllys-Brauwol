@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Charllys-Brauwol&show_icons=true&theme=nightowl">
+<img width="700px" src="https://github-readme-stats.vercel.app/api?username=Charllys-Brauwol&show_icons=true&theme=nightowl">
 <a href="https://github.com/Charllys-Brauwol"> <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </p>
 
