@@ -3,6 +3,8 @@
 <br><br>
 <p>
 
+<iframe src="https://giphy.com/embed/1C8bHHJturSx2" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2">via GIPHY</a></p>
+
 
 - 🎓 Graduando do 8º Semestre de Ciências da Computação pela UECE.
 - 👨‍💻 Atualmente trabalho na área de Telecomunicações, sou responsável pelo FTTx da empresa e projetista de Redes FTTx.
