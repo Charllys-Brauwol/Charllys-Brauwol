@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charllys-Brauwol&color=blue" alt="Profile views" /> 
 
 ## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-Iniciante-05122A?style=flat&logo=CSS3&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-05122A?style=flat&logo=javascript&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-Iniciante-05122A?style=flat&logo=Java&color=red)<br>
+![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-Iniciante-05122A?style=flat&logo=CSS3&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-05122A?style=flat&logo=javascript&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-Iniciante-05122A?style=flat&logo=Java&logoColor=white&color=red)<br>
 ![Git](https://img.shields.io/badge/Git-Intermediário-05122A?style=flat&logo=git&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-Intermediário-05122A?style=flat&logo=github&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Intermediário-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
