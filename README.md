@@ -8,15 +8,13 @@
 - 📚 Já na faculdade estamos se aprofundando em POO com Java.
 - ⚡ Curiosidades: adoro café ☕ e, aparentemente, não posso ver um animal na rua (6 gatos e 2 cachorros).
 
- <br> 
+
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-Iniciante-05122A?style=flat&logo=HTML5&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CSS](https://img.shields.io/badge/CSS-Iniciante-05122A?style=flat&logo=CSS3&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-Iniciante-05122A?style=flat&logo=javascript&color=red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-Iniciante-05122A?style=flat&logo=Java&color=red)<br>
 ![C](https://img.shields.io/badge/C-Intermediário-05122A?style=flat&logo=C&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-Intermediário-05122A?style=flat&logo=git&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/GitHub-Intermediário-05122A?style=flat&logo=github&color=blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Intermediário-05122A?style=flat&logo=visual-studio-code&color=blue)&nbsp;<br>
 
-<br>
-## ⚙️ &nbsp;GitHub Analytics
-<br>
 
+## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <img width="550px" src="https://github-readme-stats.vercel.app/api?username=Charllys-Brauwol&show_icons=true&theme=nightowl">
 <a href="https://github.com/Charllys-Brauwol"> <img width="265px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charllys-Brauwol&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
