@@ -1,5 +1,5 @@
 <h1 align="center">Charllys Brauwol! 👨‍💻</h1>
-<p align="left"> <img src="https://komarev.com/zghpvc/?username=Charllys-Brauwol&color=green" alt="Profile views"> 
+<p align="left"> <img src="https://komarev.com/zghpvc/?username=Charllys-Brauwol&color=green" alt="Profile views" /> 
 
 
 ## 🛠 &nbsp;Tech Stack
