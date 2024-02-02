@@ -10,8 +10,9 @@
 <br>
 
 - 🎓 Graduado em Computação pela UECE - Campus Mombaça/CE.
+- 🎓 Pós-Graduado em Redes de Computadores.
 - 👨‍💻 Mestrando em Computação pela UFC - Campus Quixadá/CE.
-- 🧠 Atualmente estou estudando nas horas vagas: Assuntos sobre JS.
+- 🧠 Trabalhando com Selenium e serviços em nuvem AWS.
 - ⚡ Curiosidades: adoro café e, aparentemente, não posso ver um animal na rua (4 gatos e 2 cachorros).
   
 <br>
